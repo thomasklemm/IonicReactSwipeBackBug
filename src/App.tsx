@@ -34,9 +34,9 @@ import "@ionic/react/css/display.css";
 /* Theme variables */
 import "./theme/variables.css";
 
-// setupConfig({
-//   swipeBackEnabled: false,
-// });
+setupConfig({
+  swipeBackEnabled: false,
+});
 
 const App: React.FC = () => (
   <IonApp>
