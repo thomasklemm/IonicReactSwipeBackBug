@@ -1,0 +1,7 @@
+{
+  "name": "SwipeBackBug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
