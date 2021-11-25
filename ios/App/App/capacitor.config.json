@@ -1,1 +1,6 @@
-{}
+{
+  "appId": "com.thomasklemm.swipe-back-bug",
+  "appName": "SwipeBackBug",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}

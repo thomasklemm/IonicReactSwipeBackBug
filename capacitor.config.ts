@@ -1,10 +1,10 @@
-import { CapacitorConfig } from '@capacitor/cli';
+import { CapacitorConfig } from "@capacitor/cli";
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'SwipeBackBug',
-  webDir: 'build',
-  bundledWebRuntime: false
+  appId: "com.thomasklemm.swipe-back-bug",
+  appName: "SwipeBackBug",
+  webDir: "build",
+  bundledWebRuntime: false,
 };
 
 export default config;
